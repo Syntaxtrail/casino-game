@@ -75,13 +75,6 @@ if (chosenNumber == winningNumber) {
 | Number Range | 1 to 10 |
 | Win Multiplier | 2x bet amount |
 
-## ⚠️ Responsible Gaming
-
-This is a simulation game intended for entertainment purposes only. Please remember:
-- Set personal limits for gaming sessions
-- Never bet more than you can afford to lose
-- Gaming should be fun, not a way to make money
-
 ## 🛠️ Technical Details
 
 - Language: C
